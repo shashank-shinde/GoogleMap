@@ -12,7 +12,7 @@ This is demo application demonstrating the use of google maps and google places 
 
 * Get device's last location
 * Add a marker to device's current location
-* Get lat-lang of location
+* Get lat-long of location
 * Autocomplete suggestions based on  <a href='https://developers.google.com/places/' target='_blank'>Google Places API</a>
 * <a href='https://developers.google.com/places/android-api/placepicker' target='_blank'>Place Picker</a>
 * Additional information about places
