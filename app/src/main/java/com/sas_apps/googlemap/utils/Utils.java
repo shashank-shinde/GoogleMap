@@ -5,9 +5,7 @@ package com.sas_apps.googlemap.utils;
 
 public class Utils {
 
-//    public static final String API_KEY = "AIzaSyDkfPUyBgegCQEA9-QCgK6foI3QvPG_BJg";
-
-    public static final String API_KEY = "AIzaSyCoqp2iUJxCPDYWQL-esvFgoiKsngqcBHA";
+    public static final String API_KEY = "<Api key>";
 
 
 }
